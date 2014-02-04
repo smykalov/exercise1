@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+	font-size: 40px;
+	color:red;
+}
+section h1 {
+	font-size: 30px;
+	color:violet;
+	line-height: 2;
+}
+.green {
+	color:green;
+	line-height: 1;
+}
+li {
+	margin: 0 45px;
+	
+}
